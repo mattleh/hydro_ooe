@@ -1,0 +1,17 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Setup OÖ Hydro Stations",
+        "description": "Select the measuring stations you want to track.",
+        "data": {
+          "stations": "Stations"
+        }
+      }
+    },
+    "error": {
+      "cannot_connect": "Failed to connect to the OÖ data server.",
+      "unknown": "Unexpected error"
+    }
+  }
+}

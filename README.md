@@ -16,7 +16,7 @@ This custom integration fetches real-time hydrological data (water level, discha
 ### Method 1: HACS (Recommended)
 1. Ensure [HACS](https://hacs.xyz/) is installed.
 2. Go to **HACS** > **Integrations** > **Three dots (top right)** > **Custom Repositories**.
-3. Paste the URL of this repository.
+3. Paste the URL of this repository https://github.com/mattleh/hydro_ooe.
 4. Select **Integration** as the category and click **Add**.
 5. Find "OÖ Hydro Data" in HACS and click **Download**.
 6. Restart Home Assistant.

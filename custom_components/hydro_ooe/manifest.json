@@ -1,0 +1,11 @@
+{
+  "domain": "hydro_ooe",
+  "name": "OÖ Hydro Data",
+  "config_flow": true,
+  "documentation": "https://data.ooe.gv.at/",
+  "dependencies": [],
+  "codeowners": ["@your_username"],
+  "version": "1.0.0",
+  "iot_class": "cloud_polling",
+  "requirements": []
+}
